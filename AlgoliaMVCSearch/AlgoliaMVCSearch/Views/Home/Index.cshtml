@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<main>
+    <div class="jumbotron">
+        <div id="hits">
+            <!-- Hits widget will appear here -->
+        </div>
+        <div id="pagination">
+            <!-- Hits widget will appear here -->
+        </div>
+    </div>
+</main>
+
+<script type="text/html" id="hit-template">
+    <div class="hit">
+        <div class="hit-image">
+            <img src="{{ImageUrl}}" alt="{{Name}}" />
+        </div>
+        <div class="hit-content">
+            <h3 class="hit-price">${{Price}}</h3>            
+            <h2 class="hit-Name">{{{Name}}}</h2>
+            <p class="hit-Destination">{{Destination}}</p>
+            <p class="hit-AccommodationType">{{AccommodationType}}</p>
+            <p class="hit-Features">{{Features}}</p>
+            <p class="hit-Latitude">Lat:{{Latitude}}</p>
+            <p class="hit-Longitude">Long :{{Longitude}}</p>
+        </div>
+
+    </div>
+</script>
+
+
+<div class="row">
+
+</div>

@@ -1,0 +1,50 @@
+9/13/2017 12:06:21 PM: Algolia Objects Upadte Service started
+9/13/2017 12:06:26 PM: Algolia Objects Upadte Service stopped
+9/13/2017 12:08:02 PM: Algolia Objects Upadte Service started
+9/13/2017 12:08:02 PM: Algolia Objects Upadte Service stopped
+9/13/2017 12:09:11 PM: Algolia Objects Upadte Service started
+9/13/2017 12:09:32 PM: Algolia Objects Upadte Service stopped
+9/13/2017 12:16:30 PM: Algolia Objects Upadte Service started
+9/13/2017 12:17:59 PM: Algolia Objects Upadte Service started
+9/13/2017 12:20:16 PM: Updated OBjects sucessfully..
+9/13/2017 12:20:16 PM: mscorlib; The process cannot access the file 'D:\ConsoleApps\Services\UpdateAlgoliaService\UpdateAlgoliaService\bin\Debug\LogFile.txt' because it is being used by another process.
+9/13/2017 12:21:04 PM: Updated OBjects sucessfully..
+9/14/2017 1:26:18 PM: Algolia Objects Upadte Service started
+9/14/2017 1:28:42 PM: Updated OBjects sucessfully..
+9/14/2017 1:28:43 PM: Updated OBjects sucessfully..
+9/14/2017 1:29:23 PM: Updated OBjects sucessfully..
+9/14/2017 1:30:41 PM: Algolia Objects Upadte Service started
+9/14/2017 1:30:41 PM: Algolia Objects Upadte Service stopped
+9/14/2017 1:32:10 PM: Algolia Objects Upadte Service started
+9/14/2017 1:32:10 PM: Algolia Objects Upadte Service stopped
+9/14/2017 1:35:20 PM: Algolia Objects Upadte Service started
+9/14/2017 1:46:28 PM: Algolia Objects Upadte Service started
+9/14/2017 1:47:40 PM: Updated OBjects sucessfully..
+9/14/2017 1:48:32 PM: Updated OBjects sucessfully..
+9/14/2017 1:49:33 PM: Updated OBjects sucessfully..
+9/14/2017 1:50:36 PM: Updated OBjects sucessfully..
+9/14/2017 1:51:35 PM: Updated OBjects sucessfully..
+9/14/2017 1:52:30 PM: Updated OBjects sucessfully..
+9/14/2017 1:53:31 PM: Updated OBjects sucessfully..
+9/14/2017 1:54:31 PM: Updated OBjects sucessfully..
+9/14/2017 1:55:32 PM: Updated OBjects sucessfully..
+9/14/2017 1:56:30 PM: Updated OBjects sucessfully..
+9/14/2017 1:57:30 PM: Updated OBjects sucessfully..
+9/14/2017 1:58:31 PM: Updated OBjects sucessfully..
+9/14/2017 1:59:32 PM: Updated OBjects sucessfully..
+9/14/2017 2:00:31 PM: Updated OBjects sucessfully..
+9/14/2017 2:01:32 PM: Updated OBjects sucessfully..
+9/14/2017 2:02:31 PM: Updated OBjects sucessfully..
+9/14/2017 2:03:32 PM: Updated OBjects sucessfully..
+9/14/2017 2:04:31 PM: Updated OBjects sucessfully..
+9/14/2017 2:05:30 PM: Updated OBjects sucessfully..
+9/14/2017 2:06:31 PM: Updated OBjects sucessfully..
+9/14/2017 2:07:30 PM: Updated OBjects sucessfully..
+9/14/2017 2:08:34 PM: Updated OBjects sucessfully..
+9/14/2017 2:09:31 PM: Updated OBjects sucessfully..
+9/14/2017 2:10:31 PM: Updated OBjects sucessfully..
+9/14/2017 2:11:55 PM: Updated OBjects sucessfully..
+9/14/2017 2:12:31 PM: Updated OBjects sucessfully..
+9/14/2017 2:13:31 PM: Updated OBjects sucessfully..
+9/14/2017 2:14:36 PM: Updated OBjects sucessfully..
+9/14/2017 2:15:31 PM: Updated OBjects sucessfully..
